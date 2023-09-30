@@ -56,7 +56,27 @@ def room3():
             time.sleep(10)
 
 def room4():
-      print("Ты не должен был...")
+      print("   ТzAы Ne доJ|||||жен 6ы88888888888л...")
+      input()
+      input()
+      input()
+      input()
+      input()
+      input()
+      input()
+      input()
+      input()
+      print("000000СТАNоВИ Сь!!!")
+      input()
+      input()
+      input()
+      input()
+      print("         ЯDEJ пGHРеЕдупреLBKFла")
+      input()
+      input()
+      input()
+      input()
+      print('Давай сделаем вид, что ничего не случилось. Просто нажми "Stop", а потом "Run" ')
       time.sleep(30)
 
 def litclub():
