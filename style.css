@@ -9,23 +9,24 @@
 
 input {
     display: block;
+    background: #a38beb;
     margin-top: 10%;
     border-radius: 20px;
     outline: none;
+    border: none;
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
 }
 
 
 input::placeholder {
-    background: #a38beb;
+    
     text-transform: uppercase;
-    text-align: center;
-    border-radius: 20px;
     color: #e4dcf9;
-    font-family: "Quicksand", sans-serif;
 }
 
 .placeholder_admin {
-    font-size:160%;
+    font-size:130%;
     border: none;
     
 }
